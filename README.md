@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyamanand&label=Profile%20views&color=0e75b6&style=flat" alt="sanyamanand" /> </p>
 
-- 🔭 I’m currently working on **Bharat Intern Project**
+- 🔭 I’m currently working on **Many Projects**
 
 - 🌱 I’m currently learning **Python, Java**
 
