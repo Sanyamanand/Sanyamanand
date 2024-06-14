@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanyam Anand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" alt= "C O D I N G" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align ="center" alt= "C O D I N G" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyamanand&label=Profile%20views&color=0e75b6&style=flat" alt="sanyamanand" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyamanand" alt="sanyamanand" /></a> </p>
